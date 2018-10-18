@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Qtime</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="appname">To QTime</string>
+    <string name="MainHeader">W E L C O M E</string>
+    <string name="logout">Logout</string>
+    <string name="googleSignIn">Sign in with G+</string>
+    <string name="PlayGame">Play Game</string>
+</resources>

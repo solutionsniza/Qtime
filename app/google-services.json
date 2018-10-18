@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "900856148458",
+    "firebase_url": "https://qtime-6922b.firebaseio.com",
+    "project_id": "qtime-6922b",
+    "storage_bucket": "qtime-6922b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900856148458:android:96d983fcd4e0b738",
+        "android_client_info": {
+          "package_name": "in.soanker.qtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900856148458-n4po7o0rf2qkt4ps4kp8fmqmcg4f132s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.soanker.qtime",
+            "certificate_hash": "e38ea6f0e3962c8bfb2835ac23d67c4535e76369"
+          }
+        },
+        {
+          "client_id": "900856148458-372cu6qppa5ejo7bqprntgoqt8eaugam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhD6SglC6DZ0O6LYOo-8HCsn2GbF2IvDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900856148458-372cu6qppa5ejo7bqprntgoqt8eaugam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
